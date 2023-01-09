@@ -1,0 +1,13 @@
+.nav *{
+    display:flex;
+    flex-direction: row;
+    padding:1vw;
+}
+
+.logo{
+    padding:1vw;
+}
+
+.cart{
+    padding:3vw;
+}
